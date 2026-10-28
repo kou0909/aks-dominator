@@ -1,5 +1,2 @@
 # aks-dominator
 
-## aksドミネーターです
-
-あああああ
